@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Saxena</h1>
 <h3 align="center">SDET @ Cognizant | AI & Automation Enthusiast | Drone & Defense Tech Explorer</h3>
 
-https://sircltech.com/assets/images/newgif/python.gif
-
-<p align="left">
-  https://komarev.com/ghpvc/?username=GitRoh1t&label=Profile%20views&color=0e75b6&style=flat
-</p>
-
 - 🔭 I’m currently working on **Selenium-Cucumber automation frameworks** and **Dockerized CI/CD pipelines**
 - 🌱 Exploring **Large Language Models, Vector Databases, and Autonomous Systems**
-- 👨‍💻 Portfolio: [RohitSaxena.com](https://rohitsax**Python, AI, Web Dev, Drone Navigation, and NLP**
+- 👨‍💻 Portfolio: [RohitSaxena.com]**
 - 📫 Reach me at **rohitsaxenaa08@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/telligent systems that solve real-world problems**
 
