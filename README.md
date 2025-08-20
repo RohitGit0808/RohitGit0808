@@ -61,7 +61,3 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIna-948bubbadge/-Portfolio-green?style=flat-square&logo=canadme-stats.vercel.app/api?username=how_icons=true&theme=radical
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamelayout=compact&theme=radical
-  <img src="https://github-readme-streak-stats.herokuapp.com/?h1t&theme=radical
-</p>
