@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Saxena</h1>
-<h3 align="center">SDET @ Cognizant | AI & Automation Enthusiast | Drone & Defense Tech Explorer</h3>
+<h3 align="center">SDET @ Cognizant | AI & Automation Enthusiast | Software Developer</h3>
 
 - 🔭 I’m currently working on **Selenium-Cucumber automation frameworks** and **Dockerized CI/CD pipelines**
 - 🌱 Exploring **Large Language Models, Vector Databases, and Autonomous Systems**
