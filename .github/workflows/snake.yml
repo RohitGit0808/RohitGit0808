@@ -7,6 +7,11 @@ on:
   push:
     branches: [main]
 
+# Required so the default GITHUB_TOKEN can push the generated SVG to the
+# `output` branch — without this the job fails with a 403 on push.
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
